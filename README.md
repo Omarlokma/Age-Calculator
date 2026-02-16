@@ -2,7 +2,7 @@ Age Calculator App
 A simple, responsive React + Vite application that calculates your exact age in years, months, and days based on your birth date. This project was built to practice React state management and date logic.
 
 🔗 Live Demo
-You can view the live version of this project here: (Try Now)[]
+You can view the live version of this project here: (Try Now)[https://omarlokma.github.io/Age-Calculator/]
 
 🚀 Features
 >Real-time Calculation: Instant age results upon submission.
